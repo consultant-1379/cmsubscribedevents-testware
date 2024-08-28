@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="CM Subscribed Events NBI - Subscription and Event Handling - ScrumU">
+  <test name="SubscriptionAndEventHandling" preserve-order="true">
+    <classes>
+      <!-- The @BeforeSuite/@AfterSuite methods for each test class are executed alphabetically, not by the order of execution here -->
+      <class name="com.ericsson.oss.services.cmsubscribedevents.tests.CmSubscribedEventsNbiPreAndPostConditions"/>
+      <class name="com.ericsson.oss.services.cmsubscribedevents.tests.subscriptionhandling.CmSubscribedEventsSubscriptionAndEventHandlingScenario"/>
+    </classes>
+  </test>
+</suite>

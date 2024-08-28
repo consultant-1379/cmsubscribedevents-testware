@@ -1,0 +1,2 @@
+username,firstName,lastName,email,password,enabled,roles
+CMsubscribedEventsNBI_Admin,john,smith,jsmith@ericsson.com,TestPassw0rd,true,"CM_EVENTSNBI_Administrator,Cmedit_Administrator"

@@ -1,0 +1,3 @@
+testCaseId,testCaseTitle,scopeType,scopeLevel,notificationTypes,id,objectClass,objectInstance
+moiChangesEventHandling,End to End Subscription Handling notifyMOIChanges,BASE_ALL,0,"notifyMOIChanges,notifyMOIDeletion,notifyMOICreation,notifyMOIAttributeValueChanges",Request_id,/,/
+moiCreate_AVC_Delete_EventHandling,End to End Subscription Handling notifyMOI<EventType>,BASE_ALL,0,"notifyMOIDeletion,notifyMOICreation,notifyMOIAttributeValueChanges",Request_id,/,/
